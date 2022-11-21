@@ -1,0 +1,6 @@
+### Добавить id продукта
+GET http://localhost:8080/store/order/add?id=1
+Content-Type: application/json
+
+### Получить все id продуктов
+GET http://localhost:8080/store/order/get
